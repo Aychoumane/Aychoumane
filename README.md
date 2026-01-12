@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aychoumane, mais je m'appelle ICHOU Aymane.
 - 👀 Le domaine de l'informatique ainsi que la programmation sont mes passions.
-- 🌱 Je suis récemment diplômé d'une licence informatique et vidéoludisme à l'université de Paris 8 à Saint Denis (France).
+- 🌱 Je suis diplômé d'une licence informatique et vidéoludisme à l'université de Paris 8 à Saint Denis (France).
+- 💻 Je suis actuellement en M1 Big Data à l'université Paris 8, à Saint Denis (France). 
 
 
 <!---
